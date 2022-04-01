@@ -1,0 +1,1716 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!382020655 &-7217544188006738976
+PluginBuildInfo:
+  m_RuntimePlugins:
+  - AWSSDK.CognitoIdentity
+  - VRCSDK2
+  - nunit.framework
+  - OVRPlugin
+  - librsync.net
+  - Collections.Pooled
+  - System.Collections.Immutable
+  - System.Numerics.Vectors
+  - AWSSDK.Core
+  - System.Buffers
+  - VRCSDKBase
+  - System.Runtime.CompilerServices.Unsafe
+  - AWSSDK.S3
+  - AWSSDK.SecurityToken
+  - ICSharpCode.SharpZipLib
+  - Blake2Sharp
+  - System.Memory
+  - VRCCore-Editor
+  - libAudioPluginOculusSpatializer
+  m_EditorPlugins:
+  - openvr_api
+  - AppleEventIntegration
+  - liblz4Plastic
+  - Unity.Plastic.Newtonsoft.Json
+  - unityplastic
+  - zlibwapi
+  - AudioPluginOculusSpatializer
+  - VRCSDK2-Editor
+  - UnityEditor.VR
+  - VRCSDKBase-Editor
+  - DotZLib
+  - log4netPlastic
+  - libopenvr_api
+  - zlib64Plastic
+  - Unity.Plastic.Antlr3.Runtime
+  - lz4x64Plastic
+--- !u!1126 &-4721457221018690478
+PackedAssets:
+  m_File: 5
+  m_ShortPath: CAB-c24b380510f63c63bd1b514bb56b86d0
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4096
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 84
+    offset: 4200
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!641289076 &-4458218121570048779
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 12
+  m_AudioMixerCount: 0
+--- !u!668709126 &-3158456229124454392
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: customscene.vrcw
+    bundleArchiveFile: 3
+    packagedFileIndices: 000000000100000002000000
+  - bundleName: fiverrPicWithFriends
+    bundleArchiveFile: 6
+    packagedFileIndices: 05000000
+--- !u!1126 &-1383688163504955476
+PackedAssets:
+  m_File: 2
+  m_ShortPath: BuildPlayer-SampleScene.resource
+  m_Overhead: 0
+  m_Contents:
+  - fileID: 0
+    classID: 83
+    packedSize: 1718272
+    offset: 0
+    sourceAssetGUID: 7d5801668678c074ea1852699c2df019
+    buildTimeAssetPath: Assets/Sounds/Hobo Johnson - I Want a Dog (Official Audio)_160k.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 1777088
+    offset: 0
+    sourceAssetGUID: c3446916785d07944bbd20a384d2a35c
+    buildTimeAssetPath: Assets/Sounds/The Kid LAROI - STAY (Lyrics) Ft. Justin Bieber_160k.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 2245568
+    offset: 0
+    sourceAssetGUID: 2f93f7888c359514984f4fea39a0b81c
+    buildTimeAssetPath: Assets/Sounds/Cuco & Dillon Francis - Fix Me (Official Lyric
+      Video)_160k.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 2314784
+    offset: 0
+    sourceAssetGUID: 6ee58d0846eb1cb49a54fd405b171e70
+    buildTimeAssetPath: Assets/Sounds/I Can t Handle Change_160k.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 2475744
+    offset: 0
+    sourceAssetGUID: 5eabfadfc5e0cdd4fb9e7758fa53f587
+    buildTimeAssetPath: Assets/Sounds/Young_160k.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 2515808
+    offset: 0
+    sourceAssetGUID: 28f5e245e88db08459371ce4ada08afc
+    buildTimeAssetPath: Assets/Sounds/Fantasy.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 2685952
+    offset: 0
+    sourceAssetGUID: c15ec5c42fd4f784086af43dde540747
+    buildTimeAssetPath: Assets/Sounds/J. Cole - j a v a r i (Official Audio)_70k.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 2921984
+    offset: 0
+    sourceAssetGUID: b1af1552e412b6d45b9271c038ce1b71
+    buildTimeAssetPath: Assets/Sounds/XXXTENTACION - Tightrope (Feat. Scott James)
+      RIPXXX_160k.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 3049952
+    offset: 0
+    sourceAssetGUID: c88883e491eed7849b2e4a693de83237
+    buildTimeAssetPath: Assets/Sounds/Sure Sure - Funky Galileo_160k.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 3192768
+    offset: 0
+    sourceAssetGUID: 68fa843fd9eeb984c9fc28a397d2afe4
+    buildTimeAssetPath: Assets/Sounds/Daniel Caesar - Get You (feat. Kali Uchis)_160k.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 3695232
+    offset: 0
+    sourceAssetGUID: b864d16761f5c884c931724ec7fab3d9
+    buildTimeAssetPath: Assets/Sounds/Kingdom Hearts Simple and Clean by Utada Hikaru.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 5536032
+    offset: 0
+    sourceAssetGUID: 9014af5d1c08d6d4a811ac270987094b
+    buildTimeAssetPath: Assets/Sounds/RIOT - Overkill Monstercat Release _160k.mp3
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 637710342153653938
+    buildGUID: 00000000000000000000000000000000
+    platformName: Android
+    platformGroupName: Android
+    options: 16
+    assetBundleOptions: 0
+    outputPath: C:/Users/NOTASH~1/AppData/Local/Temp/DefaultCompany/fiverrPicWithFriends/customscene.vrcw
+    crc: 2135289100
+    totalSize: 48020996
+    totalTimeTicks: 455620071
+    totalErrors: 0
+    totalWarnings: 0
+    buildType: 1
+    buildResult: 1
+  m_Files:
+  - path: D:/Projects/fiverrPicWithFriends/customscene.vrcw/BuildPlayer-SampleScene
+    role: Scene
+    id: 0
+    totalSize: 1779860
+  - path: D:/Projects/fiverrPicWithFriends/customscene.vrcw/BuildPlayer-SampleScene.sharedAssets
+    role: SharedAssets
+    id: 1
+    totalSize: 41138136
+  - path: D:/Projects/fiverrPicWithFriends/customscene.vrcw/BuildPlayer-SampleScene.resource
+    role: StreamingResourceFile
+    id: 2
+    totalSize: 34129184
+  - path: D:/Projects/fiverrPicWithFriends/customscene.vrcw
+    role: AssetBundle
+    id: 3
+    totalSize: 48018072
+  - path: D:/Projects/fiverrPicWithFriends/customscene.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 4
+    totalSize: 1743
+  - path: D:/Projects/fiverrPicWithFriends/fiverrPicWithFriends/CAB-c24b380510f63c63bd1b514bb56b86d0
+    role: ResourcesFile
+    id: 5
+    totalSize: 4284
+  - path: D:/Projects/fiverrPicWithFriends/fiverrPicWithFriends
+    role: ManifestAssetBundle
+    id: 6
+    totalSize: 1037
+  - path: D:/Projects/fiverrPicWithFriends/fiverrPicWithFriends.manifest
+    role: AssetBundleTextManifest
+    id: 7
+    totalSize: 144
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 455620071
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 597638
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 33483869
+    depth: 1
+    messages: []
+  - stepName: Build player
+    durationTicks: 334145465
+    depth: 1
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 2261909
+    depth: 2
+    messages: []
+  - stepName: Building scenes
+    durationTicks: 31302610
+    depth: 2
+    messages: []
+  - stepName: Building scene Assets/Scenes/SampleScene.unity
+    durationTicks: 31296185
+    depth: 3
+    messages: []
+  - stepName: Writing asset files
+    durationTicks: 62489674
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - archive:/BuildPlayer-SampleScene/BuildPlayer-SampleScene.sharedAssets
+    durationTicks: 62452533
+    depth: 3
+    messages: []
+  - stepName: Creating compressed player package
+    durationTicks: 224737126
+    depth: 2
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 635560
+    depth: 2
+    messages: []
+  m_Appendices:
+  - {fileID: -3158456229124454392}
+  - {fileID: 9032802344453006014}
+  - {fileID: -1383688163504955476}
+  - {fileID: -7217544188006738976}
+  - {fileID: -4458218121570048779}
+  - {fileID: -4721457221018690478}
+--- !u!1126 &9032802344453006014
+PackedAssets:
+  m_File: 1
+  m_ShortPath: BuildPlayer-SampleScene.sharedAssets
+  m_Overhead: 71715
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 61
+    offset: 71888
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 142
+    packedSize: 132
+    offset: 71952
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 3
+    classID: 21
+    packedSize: 684
+    offset: 72088
+    sourceAssetGUID: d1e7ac95daf61ce4f970036f3276ac2d
+    buildTimeAssetPath: Assets/BigFurniturePack/Materials/cloth_5.mat
+  - fileID: 4
+    classID: 21
+    packedSize: 684
+    offset: 72776
+    sourceAssetGUID: 838977a5f179ada4aa3b8314c843f111
+    buildTimeAssetPath: Assets/BigFurniturePack/Materials/wood_3.mat
+  - fileID: 5
+    classID: 21
+    packedSize: 732
+    offset: 73464
+    sourceAssetGUID: 3b0d2ceccf5d1804fb726d141e80fb44
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Materials/Frames/mat_intDoor_metalFrame_black.mat
+  - fileID: 6
+    classID: 21
+    packedSize: 724
+    offset: 74200
+    sourceAssetGUID: f5ff2560e39df5b4db5703fd2fcabd3f
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Materials/Knobs/mat_doorKnob_brass.mat
+  - fileID: 7
+    classID: 21
+    packedSize: 936
+    offset: 74928
+    sourceAssetGUID: 635a90e379cbaa348983459195c824dd
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Materials/mat_door1_red_weathered.mat
+  - fileID: 8
+    classID: 21
+    packedSize: 684
+    offset: 75864
+    sourceAssetGUID: a2cfa88e35b504f43ab575afcfc907cc
+    buildTimeAssetPath: Assets/Materials/Black.mat
+  - fileID: 9
+    classID: 21
+    packedSize: 696
+    offset: 76552
+    sourceAssetGUID: 2574f8ce003fbc648a1d6f55f0b9886b
+    buildTimeAssetPath: Assets/Materials/Carpet.mat
+  - fileID: 10
+    classID: 21
+    packedSize: 700
+    offset: 77248
+    sourceAssetGUID: 6ae746f83cd0c8e4db659640b923dd11
+    buildTimeAssetPath: Assets/Materials/HQ MIRROR.mat
+  - fileID: 11
+    classID: 21
+    packedSize: 700
+    offset: 77952
+    sourceAssetGUID: adeb85c1a23a9b2469a61d0cc1106174
+    buildTimeAssetPath: Assets/Materials/LQ MIRROR.mat
+  - fileID: 12
+    classID: 21
+    packedSize: 696
+    offset: 78656
+    sourceAssetGUID: 5d8c1865aa404604ea7490e9cdea4de5
+    buildTimeAssetPath: Assets/Materials/Light.mat
+  - fileID: 13
+    classID: 21
+    packedSize: 916
+    offset: 79352
+    sourceAssetGUID: 218177e28fb243e479fc126af2cc0c96
+    buildTimeAssetPath: Assets/Materials/Metal.mat
+  - fileID: 14
+    classID: 21
+    packedSize: 696
+    offset: 80272
+    sourceAssetGUID: c446dea2b3729714fa75aec198ff54ef
+    buildTimeAssetPath: Assets/Materials/Music2.mat
+  - fileID: 15
+    classID: 21
+    packedSize: 696
+    offset: 80968
+    sourceAssetGUID: 09949ec85e3d0144d930d0f04e752684
+    buildTimeAssetPath: Assets/Materials/Music3.mat
+  - fileID: 16
+    classID: 21
+    packedSize: 704
+    offset: 81664
+    sourceAssetGUID: 5e8ca57d9862fc9499214a1be04396ab
+    buildTimeAssetPath: Assets/Materials/ShinyStuff/New Material 1.mat
+  - fileID: 17
+    classID: 21
+    packedSize: 704
+    offset: 82368
+    sourceAssetGUID: dbda5900c593f6b49aea90eb8bd26c6d
+    buildTimeAssetPath: Assets/Materials/ShinyStuff/New Material 2.mat
+  - fileID: 18
+    classID: 21
+    packedSize: 704
+    offset: 83072
+    sourceAssetGUID: ff408d86c859c2245ab1f4c174bb9968
+    buildTimeAssetPath: Assets/Materials/ShinyStuff/New Material 3.mat
+  - fileID: 19
+    classID: 21
+    packedSize: 704
+    offset: 83776
+    sourceAssetGUID: cbb2fe11a6bd3974f8df1f525f03d297
+    buildTimeAssetPath: Assets/Materials/ShinyStuff/New Material 4.mat
+  - fileID: 20
+    classID: 21
+    packedSize: 704
+    offset: 84480
+    sourceAssetGUID: a03c6d6237f4dc24899eb78b4bbc28a2
+    buildTimeAssetPath: Assets/Materials/ShinyStuff/New Material 6.mat
+  - fileID: 21
+    classID: 21
+    packedSize: 704
+    offset: 85184
+    sourceAssetGUID: c18bb13e7f9afa04d9a56970d2aab016
+    buildTimeAssetPath: Assets/Materials/ShinyStuff/New Material 7.mat
+  - fileID: 22
+    classID: 21
+    packedSize: 704
+    offset: 85888
+    sourceAssetGUID: 77ad6c0e01429dc4dae7b4134e8c0d8d
+    buildTimeAssetPath: Assets/Materials/ShinyStuff/New Material 8.mat
+  - fileID: 23
+    classID: 21
+    packedSize: 700
+    offset: 86592
+    sourceAssetGUID: b9d976d0022080646b59a3b321a5145c
+    buildTimeAssetPath: Assets/Materials/ShinyStuff/New Material.mat
+  - fileID: 24
+    classID: 21
+    packedSize: 692
+    offset: 87296
+    sourceAssetGUID: 219dfc4c9c99baf4ba735da2acbfa1f9
+    buildTimeAssetPath: Assets/Materials/Wall.mat
+  - fileID: 25
+    classID: 21
+    packedSize: 732
+    offset: 87992
+    sourceAssetGUID: 00197feacc6b0094db277840cfdaf72d
+    buildTimeAssetPath: Assets/Materials/Wood_PlanksTemple1_3x3_1K_albedo.mat
+  - fileID: 26
+    classID: 21
+    packedSize: 1140
+    offset: 88728
+    sourceAssetGUID: c815f7613a04b724089c206857e57c6a
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Materials/MirrorReflection.mat
+  - fileID: 27
+    classID: 21
+    packedSize: 448
+    offset: 89872
+    sourceAssetGUID: c616258dde17e8e4082a560b2a8de094
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (1) 1.mat
+  - fileID: 28
+    classID: 21
+    packedSize: 716
+    offset: 90320
+    sourceAssetGUID: 56f4129d6f4c4bc41897cb91e237956e
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (1) 2.mat
+  - fileID: 29
+    classID: 21
+    packedSize: 716
+    offset: 91040
+    sourceAssetGUID: 30d0c668a930813408d171c102d69f00
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (1).mat
+  - fileID: 30
+    classID: 21
+    packedSize: 448
+    offset: 91760
+    sourceAssetGUID: 3d4159df930a09a438dec1faed341a57
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (10).mat
+  - fileID: 31
+    classID: 21
+    packedSize: 448
+    offset: 92208
+    sourceAssetGUID: 0a4d59014cba4124b9caaa426612a9ed
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (11).mat
+  - fileID: 32
+    classID: 21
+    packedSize: 448
+    offset: 92656
+    sourceAssetGUID: 6782860dc76560e4389c4651d8f8a37a
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (12).mat
+  - fileID: 33
+    classID: 21
+    packedSize: 716
+    offset: 93104
+    sourceAssetGUID: 45224b7e5e0b4f5418c50bec8554f81b
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (3).mat
+  - fileID: 34
+    classID: 21
+    packedSize: 448
+    offset: 93824
+    sourceAssetGUID: 91626930800390a468f89eec14b4e133
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (4).mat
+  - fileID: 35
+    classID: 21
+    packedSize: 448
+    offset: 94272
+    sourceAssetGUID: e7ac697efd1e4b041bd57c7633ff3497
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (5).mat
+  - fileID: 36
+    classID: 21
+    packedSize: 448
+    offset: 94720
+    sourceAssetGUID: f4a4d545932d34a469020337638f018d
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (6).mat
+  - fileID: 37
+    classID: 21
+    packedSize: 448
+    offset: 95168
+    sourceAssetGUID: ef22cc353fb032847aca72231d17df38
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (7).mat
+  - fileID: 38
+    classID: 21
+    packedSize: 448
+    offset: 95616
+    sourceAssetGUID: 541108bb58fc7644dbd94324a033bb5d
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (8).mat
+  - fileID: 39
+    classID: 21
+    packedSize: 448
+    offset: 96064
+    sourceAssetGUID: ba2d252e3c8b2b84ea71ac383733b882
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033 (9).mat
+  - fileID: 40
+    classID: 21
+    packedSize: 444
+    offset: 96512
+    sourceAssetGUID: 2f07bd853ae2499488a76dabd9686198
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210033.mat
+  - fileID: 41
+    classID: 21
+    packedSize: 448
+    offset: 96960
+    sourceAssetGUID: 2868ba34aa055ef44a4df2f0bf7387c2
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210034 (1).mat
+  - fileID: 42
+    classID: 21
+    packedSize: 448
+    offset: 97408
+    sourceAssetGUID: b607f04ced6d9854a9b645723c74397d
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210034 (2).mat
+  - fileID: 43
+    classID: 21
+    packedSize: 448
+    offset: 97856
+    sourceAssetGUID: db20e763d6dd4944485b1b619d709904
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210034 (3).mat
+  - fileID: 44
+    classID: 21
+    packedSize: 444
+    offset: 98304
+    sourceAssetGUID: 3a722f18fe293c74bb2dcad88783cb63
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210034.mat
+  - fileID: 45
+    classID: 21
+    packedSize: 444
+    offset: 98752
+    sourceAssetGUID: 5c6fe3914863f4f449ee9d72f1c02a83
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210035.mat
+  - fileID: 46
+    classID: 21
+    packedSize: 444
+    offset: 99200
+    sourceAssetGUID: 81c8e107ddcb27c4ab80969520f1cc39
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210036.mat
+  - fileID: 47
+    classID: 21
+    packedSize: 448
+    offset: 99648
+    sourceAssetGUID: 0135c51395c87f64999079854e042230
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210233 (1).mat
+  - fileID: 48
+    classID: 21
+    packedSize: 448
+    offset: 100096
+    sourceAssetGUID: c5909ae87cdad624a96bc3c0772fb92f
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210233 (2).mat
+  - fileID: 49
+    classID: 21
+    packedSize: 448
+    offset: 100544
+    sourceAssetGUID: e07d3162455ddb846b3f7189a150804b
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210233 (3).mat
+  - fileID: 50
+    classID: 21
+    packedSize: 448
+    offset: 100992
+    sourceAssetGUID: f6a0ae65ae246c44c83d8d02dd96ed70
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210233 (5).mat
+  - fileID: 51
+    classID: 21
+    packedSize: 444
+    offset: 101440
+    sourceAssetGUID: 62cdc5f680e85a642a689d5d58b55bfd
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635210233.mat
+  - fileID: 52
+    classID: 21
+    packedSize: 448
+    offset: 101888
+    sourceAssetGUID: 6b595648aa27ad840b073ce733dc0f1b
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635215695 (1).mat
+  - fileID: 53
+    classID: 21
+    packedSize: 448
+    offset: 102336
+    sourceAssetGUID: 0f511f0941cf23a4393b044332e725ae
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635215695 (2).mat
+  - fileID: 54
+    classID: 21
+    packedSize: 444
+    offset: 102784
+    sourceAssetGUID: c1548167c376c5a4a97eb271e6a174f9
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635215695.mat
+  - fileID: 55
+    classID: 21
+    packedSize: 448
+    offset: 103232
+    sourceAssetGUID: 23c69b6b03a4ab54292aca12c8f3fcc5
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635218534 (2).mat
+  - fileID: 56
+    classID: 21
+    packedSize: 448
+    offset: 103680
+    sourceAssetGUID: 578a86db7efdb734dbb3d5d5083c74bd
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635218534 (3).mat
+  - fileID: 57
+    classID: 21
+    packedSize: 448
+    offset: 104128
+    sourceAssetGUID: 37d26fbfabad51547b66730a419cc70f
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635218534 (4).mat
+  - fileID: 58
+    classID: 21
+    packedSize: 448
+    offset: 104576
+    sourceAssetGUID: 254352ada2fd4b840a1a5570c89091ec
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635218534 (5).mat
+  - fileID: 59
+    classID: 21
+    packedSize: 444
+    offset: 105024
+    sourceAssetGUID: b541d32f55bff5c4595f0bc54e6a1f38
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635218534.mat
+  - fileID: 60
+    classID: 21
+    packedSize: 444
+    offset: 105472
+    sourceAssetGUID: 05ae04f2075a4684a91ce8e15ec738a2
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635218718.mat
+  - fileID: 61
+    classID: 21
+    packedSize: 432
+    offset: 105920
+    sourceAssetGUID: e0451e09e0e80214581c0cec3e7d6dac
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635218762.mat
+  - fileID: 62
+    classID: 21
+    packedSize: 448
+    offset: 106352
+    sourceAssetGUID: e0e861b0bf8273849838448fb52fe99d
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223920 (1) 1.mat
+  - fileID: 63
+    classID: 21
+    packedSize: 448
+    offset: 106800
+    sourceAssetGUID: e1d24d45e9ef79c43859f192da4e2269
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223920 (1).mat
+  - fileID: 64
+    classID: 21
+    packedSize: 448
+    offset: 107248
+    sourceAssetGUID: 9dd6b2215f08330458b2a26616a7fcab
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223920 (2) 1.mat
+  - fileID: 65
+    classID: 21
+    packedSize: 448
+    offset: 107696
+    sourceAssetGUID: 8ec45f470a5265e45ac00e445c385f72
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223920 (2).mat
+  - fileID: 66
+    classID: 21
+    packedSize: 448
+    offset: 108144
+    sourceAssetGUID: 72667c3875f209c499f3b053813f77c2
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223920 (3).mat
+  - fileID: 67
+    classID: 21
+    packedSize: 448
+    offset: 108592
+    sourceAssetGUID: fc5f43a16963ee841be6a369966808d3
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223920 (4).mat
+  - fileID: 68
+    classID: 21
+    packedSize: 448
+    offset: 109040
+    sourceAssetGUID: 8340efd2d8f3aa64abc5757f99f8298a
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223920 (5).mat
+  - fileID: 69
+    classID: 21
+    packedSize: 448
+    offset: 109488
+    sourceAssetGUID: d4534a2b93869904aa1cd4719ca91439
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223920 (6).mat
+  - fileID: 70
+    classID: 21
+    packedSize: 444
+    offset: 109936
+    sourceAssetGUID: 0612d04ae424ed74c898bd6eb8012b89
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223920.mat
+  - fileID: 71
+    classID: 21
+    packedSize: 444
+    offset: 110384
+    sourceAssetGUID: 2a07451ea678ed945b86c178c3b28316
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635223921.mat
+  - fileID: 72
+    classID: 21
+    packedSize: 444
+    offset: 110832
+    sourceAssetGUID: a2029e97e6df3904b8afe7b2a28f9d1c
+    buildTimeAssetPath: Assets/pics 2/Materials/Attachment_1635248481.mat
+  - fileID: 73
+    classID: 21
+    packedSize: 704
+    offset: 111280
+    sourceAssetGUID: feb79c90dc9f7c44f87fe9e9841b01ee
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 1.mat
+  - fileID: 74
+    classID: 21
+    packedSize: 704
+    offset: 111984
+    sourceAssetGUID: ed5a385ba3fcd0c40a145f87c716f19b
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 10.mat
+  - fileID: 75
+    classID: 21
+    packedSize: 704
+    offset: 112688
+    sourceAssetGUID: 0186910b7aa718f4b87175d9ec33a774
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 2.mat
+  - fileID: 76
+    classID: 21
+    packedSize: 704
+    offset: 113392
+    sourceAssetGUID: 2ee13c8e5ae4a4b4f88ca89c8666f676
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 3.mat
+  - fileID: 77
+    classID: 21
+    packedSize: 704
+    offset: 114096
+    sourceAssetGUID: 262398907eb84fd4fbc18c15c512bf6b
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 4.mat
+  - fileID: 78
+    classID: 21
+    packedSize: 704
+    offset: 114800
+    sourceAssetGUID: 68bdff98012c03847903dd1fc7a14717
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 5.mat
+  - fileID: 79
+    classID: 21
+    packedSize: 704
+    offset: 115504
+    sourceAssetGUID: 18a2a964151146d4883a05a73cea3fb8
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 6.mat
+  - fileID: 80
+    classID: 21
+    packedSize: 704
+    offset: 116208
+    sourceAssetGUID: 75c6c0733015da44bbd77ad4d80762d8
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 7.mat
+  - fileID: 81
+    classID: 21
+    packedSize: 704
+    offset: 116912
+    sourceAssetGUID: defcdf3cf1480f74a9def35d41a88d83
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 8.mat
+  - fileID: 82
+    classID: 21
+    packedSize: 704
+    offset: 117616
+    sourceAssetGUID: e3e5c75a5aba905428e65baea2e37daf
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material 9.mat
+  - fileID: 83
+    classID: 21
+    packedSize: 700
+    offset: 118320
+    sourceAssetGUID: ff153e29e1d6d084cb712a971a433301
+    buildTimeAssetPath: Assets/pics 2/Materials/GlowingStuff/New Material.mat
+  - fileID: 84
+    classID: 21
+    packedSize: 444
+    offset: 119024
+    sourceAssetGUID: 02028f45fa4b09c498b97932a25241e8
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635285065.mat
+  - fileID: 85
+    classID: 21
+    packedSize: 424
+    offset: 119472
+    sourceAssetGUID: d3ad9dcd91ddd594f9ef80b05d4eb377
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635294747 (1).mat
+  - fileID: 86
+    classID: 21
+    packedSize: 444
+    offset: 119896
+    sourceAssetGUID: 78baddf908795a241ad25dd72a468add
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635294747.mat
+  - fileID: 87
+    classID: 21
+    packedSize: 448
+    offset: 120344
+    sourceAssetGUID: c893a1c9ed29f0e4997762042dd57905
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (1) 1.mat
+  - fileID: 88
+    classID: 21
+    packedSize: 448
+    offset: 120792
+    sourceAssetGUID: 011143231aef76142a9bc69a5ea7f0e1
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (1).mat
+  - fileID: 89
+    classID: 21
+    packedSize: 448
+    offset: 121240
+    sourceAssetGUID: 9960d87d3519d7e4fa7afbf7f8cf9c79
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (2) 1.mat
+  - fileID: 90
+    classID: 21
+    packedSize: 448
+    offset: 121688
+    sourceAssetGUID: 5b31a1baea9eccb42bbe22d861d7c31e
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (2).mat
+  - fileID: 91
+    classID: 21
+    packedSize: 448
+    offset: 122136
+    sourceAssetGUID: fe68778f4d150f94aaa0d5139a6ae7a1
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (3) 1.mat
+  - fileID: 92
+    classID: 21
+    packedSize: 448
+    offset: 122584
+    sourceAssetGUID: 71d5af474da06d84f9a03762b9f99f06
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (3).mat
+  - fileID: 93
+    classID: 21
+    packedSize: 448
+    offset: 123032
+    sourceAssetGUID: a70d692d991f8b3468b4dd75420ad2c9
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (4) 1.mat
+  - fileID: 94
+    classID: 21
+    packedSize: 448
+    offset: 123480
+    sourceAssetGUID: bdca941aa4097434aab09e36dd0baa40
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (4).mat
+  - fileID: 95
+    classID: 21
+    packedSize: 448
+    offset: 123928
+    sourceAssetGUID: 67b9a9c966d854f448bc002e1345045f
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (5).mat
+  - fileID: 96
+    classID: 21
+    packedSize: 448
+    offset: 124376
+    sourceAssetGUID: 01b3a17a2c94ad5479f61ebc8e1b668c
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (6).mat
+  - fileID: 97
+    classID: 21
+    packedSize: 448
+    offset: 124824
+    sourceAssetGUID: f946abe12f3a4ba418aeabfb326a1ef9
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345 (7).mat
+  - fileID: 98
+    classID: 21
+    packedSize: 444
+    offset: 125272
+    sourceAssetGUID: 6d02caa7d75b5b94082dbf701ac37151
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336345.mat
+  - fileID: 99
+    classID: 21
+    packedSize: 444
+    offset: 125720
+    sourceAssetGUID: 4a242efacda9d7341a3333dabe9a55e7
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336346.mat
+  - fileID: 100
+    classID: 21
+    packedSize: 444
+    offset: 126168
+    sourceAssetGUID: 9a33e21fcbbb875468b132c204767283
+    buildTimeAssetPath: Assets/pics 3/Materials/Attachment_1635336972.mat
+  - fileID: 101
+    classID: 21
+    packedSize: 704
+    offset: 126616
+    sourceAssetGUID: c5d17ae9224ef69468c67da2c3197a3f
+    buildTimeAssetPath: Assets/pics 3/Materials/ItGlows/New Material 1.mat
+  - fileID: 102
+    classID: 21
+    packedSize: 704
+    offset: 127320
+    sourceAssetGUID: 8affce27ba8a97f439051872f77ed16a
+    buildTimeAssetPath: Assets/pics 3/Materials/ItGlows/New Material 2.mat
+  - fileID: 103
+    classID: 21
+    packedSize: 700
+    offset: 128024
+    sourceAssetGUID: 992b331c97dec5a49a07dbdff26de62d
+    buildTimeAssetPath: Assets/pics 3/Materials/ItGlows/New Material.mat
+  - fileID: 104
+    classID: 21
+    packedSize: 448
+    offset: 128728
+    sourceAssetGUID: 8d07d840d2e60524cb778406025aaa88
+    buildTimeAssetPath: Assets/pics 4/Materials/Attachment_1635355635 (1).mat
+  - fileID: 105
+    classID: 21
+    packedSize: 444
+    offset: 129176
+    sourceAssetGUID: e22c4164ab56ee54bad4db9d315248e4
+    buildTimeAssetPath: Assets/pics 4/Materials/Attachment_1635355635.mat
+  - fileID: 106
+    classID: 21
+    packedSize: 716
+    offset: 129624
+    sourceAssetGUID: d8daf9043e95a3543b1d248322ba6b77
+    buildTimeAssetPath: Assets/pics/Materials/Attachment_1635186885 (1).mat
+  - fileID: 107
+    classID: 21
+    packedSize: 716
+    offset: 130344
+    sourceAssetGUID: 090e59cfba07fc9478ba018430cd6290
+    buildTimeAssetPath: Assets/pics/Materials/Attachment_1635186885 (2).mat
+  - fileID: 108
+    classID: 21
+    packedSize: 716
+    offset: 131064
+    sourceAssetGUID: f3569507011a6744aa515ee5f9d05b09
+    buildTimeAssetPath: Assets/pics/Materials/Attachment_1635186885 (3).mat
+  - fileID: 109
+    classID: 21
+    packedSize: 712
+    offset: 131784
+    sourceAssetGUID: 36ce91fe67b4109488536ef5de1e64e1
+    buildTimeAssetPath: Assets/pics/Materials/Attachment_1635186885.mat
+  - fileID: 110
+    classID: 21
+    packedSize: 716
+    offset: 132496
+    sourceAssetGUID: 13bf058b7102262409f89acc44d13115
+    buildTimeAssetPath: Assets/pics/Materials/Attachment_1635187271 (1).mat
+  - fileID: 111
+    classID: 21
+    packedSize: 716
+    offset: 133216
+    sourceAssetGUID: 9dbdb8442dca2e7469e3a3090c199c16
+    buildTimeAssetPath: Assets/pics/Materials/Attachment_1635187271 (2).mat
+  - fileID: 112
+    classID: 21
+    packedSize: 716
+    offset: 133936
+    sourceAssetGUID: b3231ab18c1cdcc4ea463d62637ef2be
+    buildTimeAssetPath: Assets/pics/Materials/Attachment_1635187271 (3).mat
+  - fileID: 113
+    classID: 21
+    packedSize: 716
+    offset: 134656
+    sourceAssetGUID: 2238240dccd4af24eba533c4203a73f4
+    buildTimeAssetPath: Assets/pics/Materials/Attachment_1635187271 (4).mat
+  - fileID: 114
+    classID: 21
+    packedSize: 712
+    offset: 135376
+    sourceAssetGUID: 0fe34f6fae187554f8d30d14489ac3c6
+    buildTimeAssetPath: Assets/pics/Materials/Attachment_1635187271.mat
+  - fileID: 115
+    classID: 28
+    packedSize: 80260
+    offset: 136088
+    sourceAssetGUID: 011d67aaaa1065c4a9b52e1295406539
+    buildTimeAssetPath: Assets/pics/Attachment_1635187271 (1).png
+  - fileID: 116
+    classID: 28
+    packedSize: 170108
+    offset: 216352
+    sourceAssetGUID: 01b93a8f58fb6724a885f49f036ad830
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (1).jpeg
+  - fileID: 117
+    classID: 28
+    packedSize: 82204
+    offset: 386464
+    sourceAssetGUID: 02781b91d6c8a3c4fbc1973853353317
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (11).png
+  - fileID: 118
+    classID: 28
+    packedSize: 80836
+    offset: 468672
+    sourceAssetGUID: 043306bb79d73064781ec8d413788fd2
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (10).png
+  - fileID: 119
+    classID: 28
+    packedSize: 40128
+    offset: 549512
+    sourceAssetGUID: 04808d49eef38204b8c86e0326266193
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635218534 (2).png
+  - fileID: 120
+    classID: 28
+    packedSize: 86620
+    offset: 589640
+    sourceAssetGUID: 0589645384e7923459d917ac56c5d7dc
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (5).png
+  - fileID: 121
+    classID: 28
+    packedSize: 71100
+    offset: 676264
+    sourceAssetGUID: 0d28698254085d84da49bf01dfdeb317
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635218762.png
+  - fileID: 122
+    classID: 28
+    packedSize: 74896
+    offset: 747368
+    sourceAssetGUID: 0f8d998cdb6a73443b22f9e3e1cd989d
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635218718.png
+  - fileID: 123
+    classID: 28
+    packedSize: 10592
+    offset: 822264
+    sourceAssetGUID: 185dc1ab39386644b87d2dbb3bac88e0
+    buildTimeAssetPath: Assets/Textures/Wood_PlanksTemple1_3x3_1K_albedo.tif
+  - fileID: 124
+    classID: 28
+    packedSize: 32620
+    offset: 832856
+    sourceAssetGUID: 1d37768ec7ea3c448a15ff030f4b0fd4
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (6).png
+  - fileID: 125
+    classID: 28
+    packedSize: 87916
+    offset: 865480
+    sourceAssetGUID: 1d6973cca59112d45ad706d475a5435f
+    buildTimeAssetPath: Assets/pics/Attachment_1635187271 (4).png
+  - fileID: 126
+    classID: 28
+    packedSize: 3960
+    offset: 953400
+    sourceAssetGUID: 1ffdd64da56be964da41c6271765ce90
+    buildTimeAssetPath: Assets/Textures/Wood_PlanksTemple1_3x3_1K_normal.tif
+  - fileID: 127
+    classID: 28
+    packedSize: 15824
+    offset: 957360
+    sourceAssetGUID: 22102e447640d6343b9ebc883e621333
+    buildTimeAssetPath: Assets/Textures/Wall_Stucco3_1x1_1K_normal.tif
+  - fileID: 128
+    classID: 28
+    packedSize: 88260
+    offset: 973184
+    sourceAssetGUID: 22cd328bd0cbc2d419bfa2165a7d2b77
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210034 (3).png
+  - fileID: 129
+    classID: 28
+    packedSize: 164612
+    offset: 1061448
+    sourceAssetGUID: 230fd523131a90945833ec9a5713270d
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920.jpeg
+  - fileID: 130
+    classID: 28
+    packedSize: 65580
+    offset: 1226064
+    sourceAssetGUID: 2369fa7c17a16ac46ac004443f46b655
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345.png
+  - fileID: 131
+    classID: 28
+    packedSize: 88820
+    offset: 1291648
+    sourceAssetGUID: 2645b2faa20495649aa1a8e2dcb1ef7d
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635294747 (1).png
+  - fileID: 132
+    classID: 28
+    packedSize: 27196
+    offset: 1380472
+    sourceAssetGUID: 2c610723d9e293b4885a035c2ab366b6
+    buildTimeAssetPath: Assets/pics/Attachment_1635186885 (1).png
+  - fileID: 133
+    classID: 28
+    packedSize: 155580
+    offset: 1407672
+    sourceAssetGUID: 2ef31fa7ccb7f904a85e2a3baaa873eb
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (1).jpeg
+  - fileID: 134
+    classID: 28
+    packedSize: 54144
+    offset: 1563256
+    sourceAssetGUID: 3f281d719e77b384eb58e213a9395fc8
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (1).png
+  - fileID: 135
+    classID: 28
+    packedSize: 145352
+    offset: 1617400
+    sourceAssetGUID: 42935aaeb48390244a2a59bc75609f2e
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (3).jpeg
+  - fileID: 136
+    classID: 28
+    packedSize: 61336
+    offset: 1762752
+    sourceAssetGUID: 43c996ae3c1b0e04394f97a874a16a9c
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635218534.png
+  - fileID: 137
+    classID: 28
+    packedSize: 2796344
+    offset: 1824088
+    sourceAssetGUID: 455ec62d34be43b48a608247269560a6
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_N.png
+  - fileID: 138
+    classID: 28
+    packedSize: 87204
+    offset: 4620432
+    sourceAssetGUID: 462de091fbbcee443aea62d8dccc9b07
+    buildTimeAssetPath: Assets/pics/Attachment_1635187271.png
+  - fileID: 139
+    classID: 28
+    packedSize: 174908
+    offset: 4707640
+    sourceAssetGUID: 483de94ab798a9941ba146ac6b28e4a9
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Knobs/intDoor_knob01_mat_doorKnob_Normal.png
+  - fileID: 140
+    classID: 28
+    packedSize: 48232
+    offset: 4882552
+    sourceAssetGUID: 495613b61ff45594c86240b115911207
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Frames/intDoor_metalFrame_mat_intDoor_metalFrame_black_AlbedoTransparency.png
+  - fileID: 141
+    classID: 28
+    packedSize: 2796320
+    offset: 4930784
+    sourceAssetGUID: 4ad70bdef858c4e4aacf6f63e7042beb
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-2_comp_light.exr
+  - fileID: 142
+    classID: 28
+    packedSize: 1398216
+    offset: 7727104
+    sourceAssetGUID: 4c606a2e435c26d46a6014791b67a352
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-2_comp_dir.png
+  - fileID: 143
+    classID: 28
+    packedSize: 42364
+    offset: 9125320
+    sourceAssetGUID: 4f03df20a1ebcd84794f961b61b9dac8
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (7).png
+  - fileID: 144
+    classID: 28
+    packedSize: 174920
+    offset: 9167688
+    sourceAssetGUID: 4faad637e00ab96409330022f7e78c7f
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Knobs/intDoor_knob01_mat_doorKnob_AlbedoTransparency.png
+  - fileID: 145
+    classID: 28
+    packedSize: 37788
+    offset: 9342608
+    sourceAssetGUID: 50026e4f336d8754c962ac22b554f792
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210034.png
+  - fileID: 146
+    classID: 28
+    packedSize: 58720
+    offset: 9380400
+    sourceAssetGUID: 505a641568f9da442a2dac8576bb0a1e
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920.png
+  - fileID: 147
+    classID: 28
+    packedSize: 77332
+    offset: 9439120
+    sourceAssetGUID: 513ab336089b5b54da0dcb06380639ce
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (3).png
+  - fileID: 148
+    classID: 28
+    packedSize: 127460
+    offset: 9516456
+    sourceAssetGUID: 555e4511090cf1849876e2b223d050e4
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (6).png
+  - fileID: 149
+    classID: 28
+    packedSize: 62776
+    offset: 9643920
+    sourceAssetGUID: 557dba8b7a8b1eb4f91b4248327365c2
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635285065.png
+  - fileID: 150
+    classID: 28
+    packedSize: 10452
+    offset: 9706696
+    sourceAssetGUID: 557fbd86194ff464e8364b96440e6850
+    buildTimeAssetPath: Assets/Textures/LQ MIRROR.psd
+  - fileID: 151
+    classID: 28
+    packedSize: 46948
+    offset: 9717152
+    sourceAssetGUID: 55fa245b0ba125c4385b22e6d0c5acda
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635218534 (3).png
+  - fileID: 152
+    classID: 28
+    packedSize: 89816
+    offset: 9764104
+    sourceAssetGUID: 59a05074ebf05504186b5b70f9af5da1
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210233 (3).png
+  - fileID: 153
+    classID: 28
+    packedSize: 98872
+    offset: 9853920
+    sourceAssetGUID: 5bf734468179d104a9c52c158ffedc30
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210233 (5).png
+  - fileID: 154
+    classID: 28
+    packedSize: 1398216
+    offset: 9952792
+    sourceAssetGUID: 5ca2a2ae55167d74a98e1eba96222a1e
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-0_comp_dir.png
+  - fileID: 155
+    classID: 28
+    packedSize: 10748
+    offset: 11351008
+    sourceAssetGUID: 5d0a6edb532cd6a4fb66423bbf50b357
+    buildTimeAssetPath: Assets/Textures/HQ MIRROR.psd
+  - fileID: 156
+    classID: 28
+    packedSize: 88024
+    offset: 11361760
+    sourceAssetGUID: 60d05052c292a334a82a9da584cf626f
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (5).png
+  - fileID: 157
+    classID: 28
+    packedSize: 70416
+    offset: 11449784
+    sourceAssetGUID: 630bf2cd514a091439b4d09d8de52216
+    buildTimeAssetPath: Assets/pics/Attachment_1635186885 (3).png
+  - fileID: 158
+    classID: 28
+    packedSize: 1398216
+    offset: 11520200
+    sourceAssetGUID: 657c71fc2dbbdb64d8359d5f0990c1f0
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-1_comp_dir.png
+  - fileID: 159
+    classID: 28
+    packedSize: 96700
+    offset: 12918416
+    sourceAssetGUID: 664b46f097f0cb84fb32469d12c7ba59
+    buildTimeAssetPath: Assets/pics 4/Attachment_1635355635 (1).png
+  - fileID: 160
+    classID: 28
+    packedSize: 160868
+    offset: 13015120
+    sourceAssetGUID: 69964e70bcdecfb43b6fadb419ede240
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (4).jpeg
+  - fileID: 161
+    classID: 28
+    packedSize: 37624
+    offset: 13175992
+    sourceAssetGUID: 6b9ad16d15e3ac54591206d7f02d0323
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635215695 (1).png
+  - fileID: 162
+    classID: 28
+    packedSize: 66140
+    offset: 13213616
+    sourceAssetGUID: 703079d3e98df8b4aa565520da8c6ccd
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (2).png
+  - fileID: 163
+    classID: 28
+    packedSize: 126836
+    offset: 13279760
+    sourceAssetGUID: 73eaaedccfaf3ed4181f4c7eecf78306
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (2).jpeg
+  - fileID: 164
+    classID: 28
+    packedSize: 2796320
+    offset: 13406600
+    sourceAssetGUID: 82eb5fb1d2b03b3449e0519b1ab51670
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-1_comp_light.exr
+  - fileID: 165
+    classID: 28
+    packedSize: 72644
+    offset: 16202920
+    sourceAssetGUID: 830152bfd4ea23e4db0d52f724ad96e8
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033.png
+  - fileID: 166
+    classID: 28
+    packedSize: 64480
+    offset: 16275568
+    sourceAssetGUID: 87bf49554423f6040afce608ec9e5fdd
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920 (4).png
+  - fileID: 167
+    classID: 28
+    packedSize: 2796344
+    offset: 16340048
+    sourceAssetGUID: 88768fb049227ad43a63ab6b80d3b98f
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_AT.png
+  - fileID: 168
+    classID: 28
+    packedSize: 43484
+    offset: 19136392
+    sourceAssetGUID: 895b6d17d3d4a574aa82b8fb858f21d0
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210233.png
+  - fileID: 169
+    classID: 28
+    packedSize: 105984
+    offset: 19179880
+    sourceAssetGUID: 8e9c92ac3e9d27e419d526e05a832974
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (2).png
+  - fileID: 170
+    classID: 28
+    packedSize: 25304
+    offset: 19285864
+    sourceAssetGUID: 929ee51bd6428c94291ffebd63a38729
+    buildTimeAssetPath: Assets/pics 4/Attachment_1635355635.png
+  - fileID: 171
+    classID: 28
+    packedSize: 103284
+    offset: 19311168
+    sourceAssetGUID: 957f369e93414de4ba2614cdb23c0093
+    buildTimeAssetPath: Assets/pics/Attachment_1635187271 (2).png
+  - fileID: 172
+    classID: 28
+    packedSize: 82480
+    offset: 19414456
+    sourceAssetGUID: 95fe25a24c89d2941b765d05805902a8
+    buildTimeAssetPath: Assets/pics/Attachment_1635186885.png
+  - fileID: 173
+    classID: 28
+    packedSize: 101744
+    offset: 19496936
+    sourceAssetGUID: 998a65e1fe449584cbfbe77723130cf4
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (1).png
+  - fileID: 174
+    classID: 28
+    packedSize: 82640
+    offset: 19598680
+    sourceAssetGUID: 9a0b6c1c83c8fc541838cb220dd63389
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635215695 (2).png
+  - fileID: 175
+    classID: 28
+    packedSize: 87112
+    offset: 19681320
+    sourceAssetGUID: 9af70cd35038186438906dd525a04ea8
+    buildTimeAssetPath: Assets/pics/Attachment_1635187271 (3).png
+  - fileID: 176
+    classID: 28
+    packedSize: 78224
+    offset: 19768432
+    sourceAssetGUID: 9c19cf0c0a4ef4847b1acaddd9650797
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336972.png
+  - fileID: 177
+    classID: 28
+    packedSize: 53036
+    offset: 19846656
+    sourceAssetGUID: a1c5f22864886b54c9c3b13af9734508
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920 (2).jpeg
+  - fileID: 178
+    classID: 28
+    packedSize: 88968
+    offset: 19899696
+    sourceAssetGUID: a1c658581c9576747a3aa1362a0ff4a0
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210233 (1).png
+  - fileID: 179
+    classID: 28
+    packedSize: 190392
+    offset: 19988664
+    sourceAssetGUID: a2cb5d71a0c08fd4ab18a82a0fc3ba93
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Frames/intDoor_metalFrame_mat_intDoor_metalFrame_black_MetallicSmoothness.png
+  - fileID: 180
+    classID: 28
+    packedSize: 79400
+    offset: 20179056
+    sourceAssetGUID: a751dd86f0a44154f9b28ef12589ffd2
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920 (2).png
+  - fileID: 181
+    classID: 28
+    packedSize: 148400
+    offset: 20258456
+    sourceAssetGUID: a891da5654c96e248a04b11fd0ed400b
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Frames/intDoor_metalFrame_mat_intDoor_metalFrame_black_Normal.png
+  - fileID: 182
+    classID: 28
+    packedSize: 91032
+    offset: 20406856
+    sourceAssetGUID: acf0b4a95dd2f7844a6f2887e57d932b
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920 (3).png
+  - fileID: 183
+    classID: 28
+    packedSize: 59348
+    offset: 20497888
+    sourceAssetGUID: ad0b1ad2ebe8eb8429580773baa6979e
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (4).png
+  - fileID: 184
+    classID: 28
+    packedSize: 39400
+    offset: 20557240
+    sourceAssetGUID: ae6ba548b9bb5774b9f1bec0e138cb20
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635215695.png
+  - fileID: 185
+    classID: 28
+    packedSize: 60048
+    offset: 20596640
+    sourceAssetGUID: ae9ccde046071fa4394f4ff66243f83f
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920 (1).png
+  - fileID: 186
+    classID: 28
+    packedSize: 1398216
+    offset: 20656688
+    sourceAssetGUID: b2b8d16bcf1842b458ebca08deef00c4
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-3_comp_dir.png
+  - fileID: 187
+    classID: 28
+    packedSize: 78424
+    offset: 22054904
+    sourceAssetGUID: b320f714e2f5ca6409ffdace61ce4e33
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920 (6).png
+  - fileID: 188
+    classID: 28
+    packedSize: 42164
+    offset: 22133328
+    sourceAssetGUID: b85f57159dd296e40941510cbde61814
+    buildTimeAssetPath: Assets/BigFurniturePack/Textures/wood_3.JPG
+  - fileID: 189
+    classID: 28
+    packedSize: 21784
+    offset: 22175496
+    sourceAssetGUID: b8daff8b7c3733a4c89e2dc3cbd49222
+    buildTimeAssetPath: Assets/BigFurniturePack/Textures/cloth_5.jpg
+  - fileID: 190
+    classID: 28
+    packedSize: 2796320
+    offset: 22197280
+    sourceAssetGUID: b9224f4320b8e0747b55d1c8fad2b181
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-3_comp_light.exr
+  - fileID: 191
+    classID: 28
+    packedSize: 101668
+    offset: 24993600
+    sourceAssetGUID: c190ac82b261f1440a3460340fa8af3b
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210034.jpeg
+  - fileID: 192
+    classID: 28
+    packedSize: 78348
+    offset: 25095272
+    sourceAssetGUID: c37ec08dffe0ad3438d8d48fee9809d9
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (12).png
+  - fileID: 193
+    classID: 28
+    packedSize: 1398216
+    offset: 25173624
+    sourceAssetGUID: ca3dc3b1efb00474080b719f4570e088
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-4_comp_dir.png
+  - fileID: 194
+    classID: 28
+    packedSize: 33560
+    offset: 26571840
+    sourceAssetGUID: ccee0294077b16045b8dd821c591a793
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (9).png
+  - fileID: 195
+    classID: 28
+    packedSize: 164876
+    offset: 26605400
+    sourceAssetGUID: cde4addf36498ae4590296531487d3f2
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920 (1).jpeg
+  - fileID: 196
+    classID: 28
+    packedSize: 88452
+    offset: 26770280
+    sourceAssetGUID: d3afaaa68b11cd241a8f2df4a42bc015
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345 (7).png
+  - fileID: 197
+    classID: 28
+    packedSize: 31560
+    offset: 26858736
+    sourceAssetGUID: dc59b8b732fc1ce448a25687dd12baa5
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210233 (2).png
+  - fileID: 198
+    classID: 28
+    packedSize: 349696
+    offset: 26890296
+    sourceAssetGUID: ddfaa0f7a22ed8e4fb26446ba8a80796
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/Knobs/intDoor_knob01_mat_doorKnob_MetallicSmoothness.png
+  - fileID: 199
+    classID: 28
+    packedSize: 2796320
+    offset: 27239992
+    sourceAssetGUID: def25f51540f9e443a585757d6447dea
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-4_comp_light.exr
+  - fileID: 200
+    classID: 28
+    packedSize: 104180
+    offset: 30036312
+    sourceAssetGUID: e10ff0d145f1e1648983345a0b83739e
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635248481.png
+  - fileID: 201
+    classID: 28
+    packedSize: 28984
+    offset: 30140496
+    sourceAssetGUID: e2de2c958bd497d48a2162b075dff226
+    buildTimeAssetPath: Assets/pics/Attachment_1635186885 (2).png
+  - fileID: 202
+    classID: 28
+    packedSize: 5592560
+    offset: 30169480
+    sourceAssetGUID: e9406dba92af95c40a202df1d8b07325
+    buildTimeAssetPath: Assets/JJ_InteriorDoorPack_V1/Textures/T_mat_intDoor1_red_weathered_MS.png
+  - fileID: 203
+    classID: 28
+    packedSize: 160660
+    offset: 35762040
+    sourceAssetGUID: e9a79da0af434c640a227d0315b87595
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033.jpeg
+  - fileID: 204
+    classID: 28
+    packedSize: 8848
+    offset: 35922704
+    sourceAssetGUID: ea902f3e44906364ca65d16d6f7119a6
+    buildTimeAssetPath: Assets/Textures/carpet 1.jpg
+  - fileID: 205
+    classID: 28
+    packedSize: 148268
+    offset: 35931552
+    sourceAssetGUID: ebe8a6b3b33c6dd4fb406d32d7e717b4
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635336345.jpeg
+  - fileID: 206
+    classID: 28
+    packedSize: 65956
+    offset: 36079824
+    sourceAssetGUID: ebfc277b63332d34181169ed5af71e6c
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635223920 (5).png
+  - fileID: 207
+    classID: 28
+    packedSize: 88424
+    offset: 36145784
+    sourceAssetGUID: eec8fac41bad1f342a0dd23c959dbcfb
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635218534 (5).png
+  - fileID: 208
+    classID: 28
+    packedSize: 93068
+    offset: 36234208
+    sourceAssetGUID: f022f729e28b6f74bb7c6b9ececb646a
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (4).png
+  - fileID: 209
+    classID: 28
+    packedSize: 86208
+    offset: 36327280
+    sourceAssetGUID: f3dc62d84de76094ab4549fcb3d6738e
+    buildTimeAssetPath: Assets/pics 3/Attachment_1635294747.png
+  - fileID: 210
+    classID: 28
+    packedSize: 79096
+    offset: 36413488
+    sourceAssetGUID: f56bdd2fca0b44f48ae9aafc61b4ad7c
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (8).png
+  - fileID: 211
+    classID: 28
+    packedSize: 45592
+    offset: 36492584
+    sourceAssetGUID: f60244562d0a25742898527b3f65874c
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210034 (2).png
+  - fileID: 212
+    classID: 28
+    packedSize: 48480
+    offset: 36538176
+    sourceAssetGUID: f74989846e8b1ee49924c0c52f68ba6f
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210034 (1).png
+  - fileID: 213
+    classID: 28
+    packedSize: 57024
+    offset: 36586656
+    sourceAssetGUID: f8a284c3b5c538f4291c08eb361634bd
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635210033 (3).png
+  - fileID: 214
+    classID: 28
+    packedSize: 16656
+    offset: 36643680
+    sourceAssetGUID: f8da24b21f9af1047801e55e3c3080fb
+    buildTimeAssetPath: Assets/Textures/carpet.jpg
+  - fileID: 215
+    classID: 28
+    packedSize: 60944
+    offset: 36660336
+    sourceAssetGUID: fc19f710d747fa049bf2b46bbdc8bb54
+    buildTimeAssetPath: Assets/pics 2/Attachment_1635218534 (4).png
+  - fileID: 216
+    classID: 28
+    packedSize: 2796320
+    offset: 36721280
+    sourceAssetGUID: fcd63079fd7191e49a6a663fce5c3170
+    buildTimeAssetPath: Assets/Scenes/SampleScene/Lightmap-0_comp_light.exr
+  - fileID: 217
+    classID: 48
+    packedSize: 1185192
+    offset: 39517600
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 218
+    classID: 48
+    packedSize: 249408
+    offset: 40702792
+    sourceAssetGUID: 0b7113dea2069fc4e8943843eff19f70
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-StandardLite.shader
+  - fileID: 219
+    classID: 48
+    packedSize: 50212
+    offset: 40952200
+    sourceAssetGUID: 2dcd9e0568e0a6f45b92c60ba2eb16a0
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Diffuse.shader
+  - fileID: 220
+    classID: 48
+    packedSize: 7108
+    offset: 41002416
+    sourceAssetGUID: 693137b858e4dc64c83be531351f45e6
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Shaders/Mirror.shader
+  - fileID: 221
+    classID: 83
+    packedSize: 136
+    offset: 41009528
+    sourceAssetGUID: 28f5e245e88db08459371ce4ada08afc
+    buildTimeAssetPath: Assets/Sounds/Fantasy.mp3
+  - fileID: 222
+    classID: 83
+    packedSize: 188
+    offset: 41009664
+    sourceAssetGUID: 2f93f7888c359514984f4fea39a0b81c
+    buildTimeAssetPath: Assets/Sounds/Cuco & Dillon Francis - Fix Me (Official Lyric
+      Video)_160k.mp3
+  - fileID: 223
+    classID: 83
+    packedSize: 140
+    offset: 41009856
+    sourceAssetGUID: 5eabfadfc5e0cdd4fb9e7758fa53f587
+    buildTimeAssetPath: Assets/Sounds/Young_160k.mp3
+  - fileID: 224
+    classID: 83
+    packedSize: 176
+    offset: 41010000
+    sourceAssetGUID: 68fa843fd9eeb984c9fc28a397d2afe4
+    buildTimeAssetPath: Assets/Sounds/Daniel Caesar - Get You (feat. Kali Uchis)_160k.mp3
+  - fileID: 225
+    classID: 83
+    packedSize: 156
+    offset: 41010176
+    sourceAssetGUID: 6ee58d0846eb1cb49a54fd405b171e70
+    buildTimeAssetPath: Assets/Sounds/I Can t Handle Change_160k.mp3
+  - fileID: 226
+    classID: 83
+    packedSize: 180
+    offset: 41010336
+    sourceAssetGUID: 7d5801668678c074ea1852699c2df019
+    buildTimeAssetPath: Assets/Sounds/Hobo Johnson - I Want a Dog (Official Audio)_160k.mp3
+  - fileID: 227
+    classID: 83
+    packedSize: 168
+    offset: 41010520
+    sourceAssetGUID: 9014af5d1c08d6d4a811ac270987094b
+    buildTimeAssetPath: Assets/Sounds/RIOT - Overkill Monstercat Release _160k.mp3
+  - fileID: 228
+    classID: 83
+    packedSize: 184
+    offset: 41010688
+    sourceAssetGUID: b1af1552e412b6d45b9271c038ce1b71
+    buildTimeAssetPath: Assets/Sounds/XXXTENTACION - Tightrope (Feat. Scott James)
+      RIPXXX_160k.mp3
+  - fileID: 229
+    classID: 83
+    packedSize: 176
+    offset: 41010872
+    sourceAssetGUID: b864d16761f5c884c931724ec7fab3d9
+    buildTimeAssetPath: Assets/Sounds/Kingdom Hearts Simple and Clean by Utada Hikaru.mp3
+  - fileID: 230
+    classID: 83
+    packedSize: 172
+    offset: 41011048
+    sourceAssetGUID: c15ec5c42fd4f784086af43dde540747
+    buildTimeAssetPath: Assets/Sounds/J. Cole - j a v a r i (Official Audio)_70k.mp3
+  - fileID: 231
+    classID: 83
+    packedSize: 180
+    offset: 41011224
+    sourceAssetGUID: c3446916785d07944bbd20a384d2a35c
+    buildTimeAssetPath: Assets/Sounds/The Kid LAROI - STAY (Lyrics) Ft. Justin Bieber_160k.mp3
+  - fileID: 232
+    classID: 83
+    packedSize: 160
+    offset: 41011408
+    sourceAssetGUID: c88883e491eed7849b2e4a693de83237
+    buildTimeAssetPath: Assets/Sounds/Sure Sure - Funky Galileo_160k.mp3
+  - fileID: 233
+    classID: 89
+    packedSize: 63264
+    offset: 41011568
+    sourceAssetGUID: 322675c6d2d72d543a67fa59c1591561
+    buildTimeAssetPath: Assets/Scenes/SampleScene/ReflectionProbe-0.exr
+  - fileID: 234
+    classID: 89
+    packedSize: 63264
+    offset: 41074832
+    sourceAssetGUID: 4c86ba58923fa0c439d9c3990b468ec0
+    buildTimeAssetPath: Assets/Scenes/SampleScene/ReflectionProbe-1.exr
+  - fileID: 235
+    classID: 115
+    packedSize: 96
+    offset: 71344
+    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCCore-Editor.dll
+  - fileID: 236
+    classID: 115
+    packedSize: 88
+    offset: 71440
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 237
+    classID: 115
+    packedSize: 96
+    offset: 71528
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 238
+    classID: 115
+    packedSize: 88
+    offset: 71624
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 239
+    classID: 115
+    packedSize: 96
+    offset: 71712
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 240
+    classID: 115
+    packedSize: 80
+    offset: 71808
+    sourceAssetGUID: f78c4655b33cb5741983dc02e08899cf
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK2.dll
+  - fileID: 241
+    classID: 258
+    packedSize: 40
+    offset: 41138096
+    sourceAssetGUID: 4ec62963afab1a141b054fd2b31ef737
+    buildTimeAssetPath: Assets/Scenes/SampleScene/LightingData.asset
